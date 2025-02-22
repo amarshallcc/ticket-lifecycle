@@ -46,6 +46,8 @@ Purpose:
 Ensures that all issues are formally documented rather than handled informally.
 Allows IT teams to track, prioritize, and distribute workload efficiently.
 
+---
+
 </p>
 2. Assignment and Communication
 <br />
@@ -68,6 +70,9 @@ Ensures the right team is working on the right issue.
 Uses SLAs to enforce timely resolution based on urgency.
 Email notifications keep users updated whenever changes occur.
 <p>
+
+---
+
 3. Working the Issue
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -88,6 +93,9 @@ Ensures a structured approach to troubleshooting.
 Encourages proper documentation of actions taken.
 Keeps the end-user informed without requiring follow-ups.
 <p>
+
+---
+
 4. Resolution and Closing the Ticket
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -112,3 +120,5 @@ Reinforces the importance of ticketing metrics in IT support.
 
 </p>
 <br />
+
+---

@@ -34,7 +34,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-What Happens?
 
 An end-user (customer or employee) reports an issue by submitting a ticket.
 The ticket includes a description of the problem, such as:
@@ -54,7 +53,6 @@ Allows IT teams to track, prioritize, and distribute workload efficiently.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-What Happens?
 
 The Help Desk Agent (John) reviews the ticket’s properties:
 Priority (How urgent is this?)
@@ -77,7 +75,6 @@ Email notifications keep users updated whenever changes occur.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-What Happens?
 
 The assigned agent begins troubleshooting:
 Jane works on the Online Banking outage ticket.
@@ -101,7 +98,6 @@ Keeps the end-user informed without requiring follow-ups.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-What Happens?
 
 Once the problem is resolved, the agent marks the ticket as completed and documents the solution.
 The end-user is notified, confirming the issue has been fixed.
